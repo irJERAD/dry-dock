@@ -6,7 +6,7 @@ logo = "images/logo.svg"
 # use `x` with logo_width, example: "100x"
 logo_width = "240x"
 # logo text will only show when logo is missing.
-logo_text = "Andromeda"
+logo_text = "Dry Docking"
 # OpenGraph / Twitter Card metadata
 description = "This is meta description"
 author = "Themefisher"
@@ -52,7 +52,7 @@ preloader = "images/favicon.png" # use jpg, png, svg or gif format.
 # Navigation button
 [navigation_button]
 enable = true
-label = "Buy Premium"
+label = "Capital-M Me"
 link = "https://gethugothemes.com/products/andromeda/"
 
 # cookies
@@ -72,21 +72,21 @@ button_link = "https://gethugothemes.com/products/andromeda/"
 
 ############################# social site ########################
 [[social]]
-title = "Andromeda"
+title = "Dry Docking"
 icon = "lab la-facebook-f" # https://icons8.com/line-awesome
 link = "#!"
 
 [[social]]
-title = "AndromedaTweet"
+title = "Dry Docking Tweet"
 icon = "lab la-twitter"  # https://icons8.com/line-awesome
 link = "#!"
 
 [[social]]
-title = "AndromedaIn"
+title = "Dry Dock-In"
 icon = "lab la-linkedin-in" # https://icons8.com/line-awesome
 link = "#!"
 
 [[social]]
-title = "AndromedaPin"
+title = "Dry Dock-Pin"
 icon = "lab la-pinterest" # https://icons8.com/line-awesome
 link = "#!"

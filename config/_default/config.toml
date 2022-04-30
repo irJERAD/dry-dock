@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://dry-dock.jerad.xyz"
-title = "Andromeda-light - Software and SAAS Landing Hugo Theme"
+title = "Dry Docking"
 theme = "andromeda-light"
 # post pagination
 paginate = "6"

@@ -6,20 +6,20 @@ logo = "images/logo.svg"
 # use `x` with logo_width, example: "100x"
 logo_width = "240x"
 # logo text will only show when logo is missing.
-logo_text = "Dry Docking"
+logo_text = "The Dry Dock"
 # OpenGraph / Twitter Card metadata
 description = "The Becoming Of Self"
 author = "Jerad"
 image = "images/logo.png"                # this image will be used as fallback if a page has no image of its own
 
 # footer information
-footer_info = "Lorem ipsum dolor sit sed dmi amet, consectetur adipiscing. Cdo tellus, sed condimentum volutpat."
+footer_info = "A Journey In The Becoming Of Self.<br>1. Life is a gift<br>2. Be true to the self<br>3. Participate in reality"
 
 # contact form action
 contact_form_action = "https://formspree.io/f/xgernlzd" # contact form works with https://formspree.io
 
 # copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Re-Designed by Jerad Acosta - [JeradXYZ](https://jerad.xyz) - in 2022. Record & process of discovery, becoming, and identity"
 
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
 custom_script = ""
@@ -72,12 +72,12 @@ button_link = "/blog/"
 
 ############################# social site ########################
 [[social]]
-title = "Dry Docking"
+title = "The Dry Dock"
 icon = "lab la-facebook-f" # https://icons8.com/line-awesome
 link = "#!"
 
 [[social]]
-title = "Dry Docking Tweet"
+title = "The Dry Dock Tweet"
 icon = "lab la-twitter"  # https://icons8.com/line-awesome
 link = "#!"
 

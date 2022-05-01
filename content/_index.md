@@ -1,9 +1,9 @@
 ---
 # banner
 banner:
-  title: "*B*eing experiencing *A*ffect as I *become*"
+  title: "A *B*eing Experiencing The *A*ffect <br> As I *Become*"
   button: "See For Your... Self"
-  button_link: "https://gethugothemes.com/products/andromeda/"
+  button_link: "/start/"
   image: "images/banner-app.png"
 
 

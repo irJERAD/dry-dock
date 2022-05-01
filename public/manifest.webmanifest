@@ -1,6 +1,6 @@
 {
-  "name": "Dry Docking - Capital-B Being experiencing Capital-A Affect as I become",
-  "short_name": "Dry Docking - Capital-B Being experiencing Capital-A Affect as I become",
+  "name": "Dry Docking",
+  "short_name": "Dry Docking",
   "lang": "en-us",
   "theme_color": "#FE6019",
   
@@ -16,32 +16,32 @@
   
   "icons": [
     {
-      "src": "/images/favicon_hua8d82528b23aa4d62c16e21fd49d287e_490_48x0_resize_box_3.png",
+      "src": "/images/favicon_hufd35ce9862af5277d3eeee5af5c1d9b1_3647_48x0_resize_box_3.png",
       "sizes": "48x48",
       "type": "image/png"
     },
     {
-      "src": "/images/favicon_hua8d82528b23aa4d62c16e21fd49d287e_490_72x0_resize_box_3.png",
+      "src": "/images/favicon_hufd35ce9862af5277d3eeee5af5c1d9b1_3647_72x0_resize_box_3.png",
       "sizes": "72x72",
       "type": "image/png"
     },
     {
-      "src": "/images/favicon_hua8d82528b23aa4d62c16e21fd49d287e_490_96x0_resize_box_3.png",
+      "src": "/images/favicon_hufd35ce9862af5277d3eeee5af5c1d9b1_3647_96x0_resize_box_3.png",
       "sizes": "96x96",
       "type": "image/png"
     },
     {
-      "src": "/images/favicon_hua8d82528b23aa4d62c16e21fd49d287e_490_144x0_resize_box_3.png",
+      "src": "/images/favicon_hufd35ce9862af5277d3eeee5af5c1d9b1_3647_144x0_resize_box_3.png",
       "sizes": "144x144",
       "type": "image/png"
     },
     {
-      "src": "/images/favicon_hua8d82528b23aa4d62c16e21fd49d287e_490_192x0_resize_box_3.png",
+      "src": "/images/favicon_hufd35ce9862af5277d3eeee5af5c1d9b1_3647_192x0_resize_box_3.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/images/favicon_hua8d82528b23aa4d62c16e21fd49d287e_490_512x0_resize_box_3.png",
+      "src": "/images/favicon_hufd35ce9862af5277d3eeee5af5c1d9b1_3647_512x0_resize_box_3.png",
       "sizes": "512x512",
       "type": "image/png"
     }

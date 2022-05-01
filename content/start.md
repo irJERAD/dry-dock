@@ -6,9 +6,10 @@ draft: false
 # who_we_are
 who_we_are:
   enable: true
-  subtitle: "Who We Are"
-  title: "Hello, We're Andromeda Here for your Help"
-  description: "Your online Health & Fitness companion that offers free assistance on its Facebook Group and provides quality paid guided personal training packages by and through website. We are the first ever, online manifesto in Bangladesh to make place you will select when you think of getting fit"
+  subtitle: "Where Are You?"
+  title: "Hello beautiful, You are right here"
+  description: "And I would not have it any other way. As you may know of not I, myself, have been going through an incredible transformation. One of life, behavior, pastimes, even mind-body-soul I would argue. But enough about me.<br>
+  You exist as a one of a kind universal treasure <3! You see, there was, is, and will be only one of you - throughout the entire existence of our infinite universe! Amazing as that sounds, we don't have time to gloat. Why? because you only have this life to truly know and express that one unique perspective on reality. All of existence has one of you and it is due time that you get to crafting that exquisite frame to hold up for the universal natures of life and reality to view, passthrough, or do whatever it is you have purpose to become."
 
   image: "images/about/01.jpg"
 
@@ -16,19 +17,25 @@ who_we_are:
 what_we_do:
   enable: true
   subtitle: "Our Works"
-  title: "What We Do"
+  title: "Three Truths, Three Meanings"
   block:
-  - title: "Building a new class"
+  - title: "1. Each and every day is a gift"
     content: "Decade of engineering under his belt, Jeremie is responsible for technical infrastructure and feature development. In Flow, wherever things just work is understanding developing complex systems"
 
-  - title: "Design for anyone"
-    content: "Decade of engineering under his belt, Jeremie is responsible for technical infrastructure and feature development. In Flow, wherever things just work is understanding developing complex systems"
+  - title: "--> We must respect all gifts with their due reverence"
+    content: "A gift by nature deserves respect. **We are not the only ones with this gift.** Life's warranted respect reaches out to each and every being"
     
-  - title: "Creative flair design"
-    content: "Decade of engineering under his belt, Jeremie is responsible for technical infrastructure and feature development. In Flow, wherever things just work is understanding developing complex systems"
+  - title: "2. Seek to know and become self"
+    content: "Taking up the quest to know your true self is not an easy one. Fortunately it is a natural enterprise to take on. Pursue, pursue, pursue to your intents desire. Seek out practical situations and natural environments to hone and sharpen your sense of self"
     
-  - title: "Building products"
-    content: "Decade of engineering under his belt, Jeremie is responsible for technical infrastructure and feature development. In Flow, wherever things just work is understanding developing complex systems"
+  - title: "--> You are responsible for being true to yourself"
+    content: "You are inherently valuable in that you singular self which holds your perspective. There was, is, and will be only one of you. Finding your true self and representing that form is the most noble of pursuits"
+
+  - title: "3. Participate in reality"
+    content: "You are inherently valuable in that you singular self which holds your perspective. There was, is, and will be only one of you. Finding your true self and representing that form is the most noble of pursuits"
+    
+  - title: "--> Listen to the universe"
+    content: "Listen to the universe and collect your blessings. As your true self you become a lightning rod for receiving *'signs'* or *'messages'* from the universe or the intent of your religion and philosophy. As the proper unique perspective that you are, reality can address you naturally through peers, activities, and general awareness"
 
 # our_mission
 our_mission:

@@ -1,20 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Dry Dock</title>
-    <link>https://dry-dock.jerad.xyz/</link>
-    <description>Recent content on The Dry Dock</description>
+    <title>Texts on The Dry Dock</title>
+    <link>https://dry-dock.jerad.xyz/texts/</link>
+    <description>Recent content in Texts on The Dry Dock</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 14 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://dry-dock.jerad.xyz/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The Way</title>
-      <link>https://dry-dock.jerad.xyz/the-way/</link>
-      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://dry-dock.jerad.xyz/the-way/</guid>
-      <description>1. Definitions We collect certain identifying personal data when you sign up to our Service such as your name, email address, PayPal address (if different from email address), and telephone number.</description>
-    </item>
-    
+    <lastBuildDate>Wed, 14 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://dry-dock.jerad.xyz/texts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Real Product From the Buyers improvements in Overflow basis.</title>
       <link>https://dry-dock.jerad.xyz/texts/post-1/</link>
@@ -85,33 +76,6 @@
       
       <guid>https://dry-dock.jerad.xyz/texts/post-8/</guid>
       <description>Laoreet mauris odio ut nec. Nisl, sed adipiscing dignissim arcu placerat ornare pharetra nec in.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://dry-dock.jerad.xyz/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dry-dock.jerad.xyz/about/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>contact</title>
-      <link>https://dry-dock.jerad.xyz/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dry-dock.jerad.xyz/contact/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Start</title>
-      <link>https://dry-dock.jerad.xyz/start/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dry-dock.jerad.xyz/start/</guid>
-      <description></description>
     </item>
     
   </channel>

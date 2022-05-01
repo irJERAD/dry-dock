@@ -10,8 +10,8 @@ url = "about/"
 weight = 2
 
 [[main]]
-name = "Blog"
-url = "blog/"
+name = "Texts"
+url = "texts/"
 weight = 3
 
 [[main]]
@@ -27,8 +27,8 @@ hasChildren = true
 
   [[main]]
   parent = "Pages"
-  name = "Terms & Conditions"
-  url = "terms-and-conditions/"
+  name = "The Way"
+  url = "the-way/"
   weight = 7
   
 [[main]]

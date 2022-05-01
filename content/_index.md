@@ -1,7 +1,7 @@
 ---
 # banner
 banner:
-  title: "A *B*eing Experiencing The *A*ffect <br> As I *Become*"
+  title: "A <u>B</u>eing Experiencing The <u>A</u>ffect <br> As I <u>Become</u>"
   button: "See For Your... Self"
   button_link: "/start/"
   image: "images/banner-app.png"

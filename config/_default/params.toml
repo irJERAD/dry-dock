@@ -66,7 +66,7 @@ button = "I Accept"
 [cta]
 enable = true
 title = "A Wise Cat Once Said:"
-content = "*'If you don't know where you are going,<br> any road will get you there.'* <br><br> Empathize in one hero's journey to self; their commitment to **B**eing; and their pursuit of **participation**."
+content = "***'If you don't know where you are going,<br> any road will get you there.'*** <br><br> Empathize in one hero's journey to self; their commitment to **B**eing; and their pursuit of **participation**."
 button = "Try The Mask On Now"
 button_link = "/blog/"
 

@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://dry-dock.jerad.xyz"
-title = "Dry Docking"
+title = "The Dry Dock"
 theme = "andromeda-light"
 # post pagination
 paginate = "6"

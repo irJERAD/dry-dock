@@ -8,16 +8,17 @@
 ######################### site variables ##############################
 # customize your color and font from here.
 [params.variables]
-white = "#ffffff"
+white = "#59CEF1"
 black = "#000000"
 light = "#FAFAFA"
-primary_color = "#2DA4CF"
+primary_color = "#F7CD8E"
 #old_primary_color = "#FE6019"
 
 ## light gradient in bowl #59CEF1
 ## dark gradient in bowl #047DAE
 ## Mid gradient in bowl #2DA4CF
 ## Boat color #F55C18
+# Light sand color #F7CD8E
 
 # font variable
 h1 = "48px"

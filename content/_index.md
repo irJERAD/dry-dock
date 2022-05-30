@@ -27,28 +27,47 @@ brands_carousel:
 # features
 features:
   enable: true
-  subtitle: "Special Features"
-  title: "Elements to <br> get you started"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
+  subtitle: "Essential Reads"
+  title: "What You Are All About <br> Core Articles"
+  description: "The Dry Dock is a thought space for discovery. <br> 
+  A collection of assets that have retained progress to guide through:
+
+  - [A Notebook of Self](/notebook-of-self)  
+
+  - [The Purpose of Purposeful Participation](/purpose-of-purposeful-participation)
+
+  - [Acceptance of Life (as a gift)](acceptance-of-life-as-a-gift)
+  "
+
   features_blocks:
-  - icon: "las la-lock"
-    title: "Updated Security"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
-  - icon: "las la-magnet"
-    title: "Magnetic Turning"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
-  - icon: "las la-tachometer-alt"
-    title: "Secured &amp; up-to-date"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
-  - icon: "las la-link"
-    title: "Instant Link Sharing"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
-  - icon: "las la-lock"
-    title: "Updated Security"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
-  - icon: "las la-magnet"
-    title: "Magnetic Turning"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
+  - icon: "las la-user-check"
+    title: '"To Thine Self Be True"'
+    content: "To seek out and discover one's self is the purest virtue of individuality.
+    Each and every one of us should constantly strive and continue to do so. <br>
+    This path marches an infinite cycle leading to the complete and absolute loss of the bounds between self and surrounding. <br><br>
+    *Before we get ahead of ourselves though*, let us focus on the process of self discovery.
+    "
+
+  - icon: "las la-eye"
+    title: "The Storification of Self"
+    content: "How we know who we are and what we do is not so - *well*... **known**. 
+    
+    - Look: With empathy for your peers and environment
+    
+    - Listen: Rather than distort and misdefine yourself through storification and narrative
+    
+    - Observe: What can you collect and put together that informs your immediate reality about who you are
+    "
+
+  - icon: "las la-user-edit"
+    title: "Choosing Self & Free Will"
+    content: "If Self is to be discovered, where is choice?<br>
+    And what about free will?<br>
+    Surely we make significant and character defining decisions throughout our lives that have to do with who we are; However:<br>
+
+    1. The decision process as we understand it ourselves is a near complete illusion
+
+    2. [A story we make up to tell ourselves about who we are](/storification-of-self)."
 
 
 # intro_video

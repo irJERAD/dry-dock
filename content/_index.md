@@ -73,11 +73,11 @@ features:
 # intro_video
 intro_video:   
   enable: true
-  subtitle: "Short Intro Video"
-  title: "Built exclusively for you"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
-  video_url: "https://www.youtube.com/embed/dyZcRRWiuuw"
-  video_thumbnail: "images/video-popup.jpg"
+  subtitle: "Some Inspiring Material"
+  title: "Intended to Help You Break You Down"
+  description: "You are not who you say you are. You are not who you believe you are. You are SELF. But what is SELF"
+  video_url: "https://www.youtube.com/watch?v=zGv1Nay2z-U"
+  video_thumbnail: "images/what-is-the-self.png"
 
 
 # how_it_works

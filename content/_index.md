@@ -84,14 +84,19 @@ intro_video:
 how_it_works:   
   enable: true
   block:
-  - subtitle: "Primary Speciality"
-    title: "You Will Not miss Your All misunderstandings"
-    description: "Protect your design vision and leave nothing up to interpretation with interaction recipes. Quickly share and access all your team members interactions by using libraries, ensuring consistency throughout the."
+  - subtitle: "Know Self"
+    title: "The Pursuit of Discovering One's Self"
+    description: "To consciously choose and set out on Self discovery is a journey of all times. The Tale of old, Folk, Nursery Rhymes and others all share such quests. Calming the fire and lava outside by calming the storm within. All of which require the hero to undergo serious acts of valor in order to put to use such an important claim to Self-knowledge."
     image: "images/features-01.png"
 
-  - subtitle: "Secondary Speciality"
-    title: "Say hello to no-code The Advance Creation"
-    description: "From the simplest of interactions to those that use Excel-gradeing formulas, ProtoPie can handle them all. Make mind-blowing of New interactions everyday without ever having to write any new code."
+  - subtitle: "Be Self: Participate in Reality"
+    title: "Invest in that which you wish to invest in You"
+    description: "In order to receive the blessing of and hear from the Universe, one must participate in reality. In the reality they desire to invest in and be invested in."
+    image: "images/features-02.png"
+
+  - subtitle: "Thank for Self"
+    title: "Each and Every Day of Conscious Life is a Gift"
+    description: "Each and every morning yan, first thing shower, sunrise cigarette, or annoying alarm accompanies The Gift of Life's breadth - delivered to us daily. Receiving this with no requirements or debts and so often is a gift so valuable and so rare. Each of us on a unique commodity timer."
     image: "images/features-02.png"
 
 

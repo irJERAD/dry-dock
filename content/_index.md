@@ -108,8 +108,8 @@ testimonials:
   description: "Something to chew on, a metaphor to ponder, epitaph to meditate on.<br>
   The greatest mind of our time have put their 2 cents in the game of Self, Discovery, Participation.<br>
   And all in the attempt of transporting an essence of wisdom to guide thyself."
-  image_left: "images/testimonials-01.png"
-  image_right: "images/testimonials-02.png"
+  image_left: "images/philosophers-01.png"
+  image_right: "images/philosophers-01.png"
   
   testimonials_quotes:
   - quote: "Our ability to choose is often confused. Our ability to make choices is often affect by our the environment, our experience, and our biochemistry; the shape of our brain"

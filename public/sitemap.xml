@@ -2,38 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://dry-dock.jerad.xyz/</loc>
+    <lastmod>2022-06-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dry-dock.jerad.xyz/poems/</loc>
+    <lastmod>2022-06-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dry-dock.jerad.xyz/poems/problem-with-instinct/</loc>
+    <lastmod>2022-06-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://dry-dock.jerad.xyz/the-way/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dry-dock.jerad.xyz/</loc>
-    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dry-dock.jerad.xyz/texts/</loc>
-    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dry-dock.jerad.xyz/texts/post-1/</loc>
-    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dry-dock.jerad.xyz/texts/post-2/</loc>
-    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dry-dock.jerad.xyz/texts/post-3/</loc>
-    <lastmod>2021-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dry-dock.jerad.xyz/texts/post-4/</loc>
-    <lastmod>2021-07-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dry-dock.jerad.xyz/texts/post-5/</loc>
-    <lastmod>2021-07-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dry-dock.jerad.xyz/texts/post-6/</loc>
-    <lastmod>2021-07-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dry-dock.jerad.xyz/texts/post-7/</loc>
-    <lastmod>2021-07-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dry-dock.jerad.xyz/texts/post-8/</loc>
-    <lastmod>2021-07-07T00:00:00+00:00</lastmod>
+    <loc>https://dry-dock.jerad.xyz/poems/count-down/</loc>
+    <lastmod>2022-04-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dry-dock.jerad.xyz/about/</loc>
   </url><url>

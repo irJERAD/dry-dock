@@ -10,8 +10,8 @@ url = "about/"
 weight = 2
 
 [[main]]
-name = "Texts"
-url = "texts/"
+name = "Poems"
+url = "poems/"
 weight = 3
 
 [[main]]

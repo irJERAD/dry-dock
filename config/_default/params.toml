@@ -28,7 +28,8 @@ custom_script = ""
 buy_premium_popup = true
 
 # Main Sections
-mainSections = ["blog"]
+#mainSections = ["blog"]
+mainSections = ["poems"]
 
 # reading time for blog posts
 reading_time = true

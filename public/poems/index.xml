@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Poems on The Dry Dock</title>
+    <link>https://dry-dock.jerad.xyz/poems/</link>
+    <description>Recent content in Poems on The Dry Dock</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 28 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://dry-dock.jerad.xyz/poems/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Problem with Instinct</title>
+      <link>https://dry-dock.jerad.xyz/poems/problem-with-instinct/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dry-dock.jerad.xyz/poems/problem-with-instinct/</guid>
+      <description>The Problem with Instinct I can&amp;rsquo;t give you answers,
+that you already know.</description>
+    </item>
+    
+    <item>
+      <title>Count Down</title>
+      <link>https://dry-dock.jerad.xyz/poems/count-down/</link>
+      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dry-dock.jerad.xyz/poems/count-down/</guid>
+      <description>The countdown,
+24 to 7.
+Start it again.
+The watch my clock.</description>
+    </item>
+    
+  </channel>
+</rss>

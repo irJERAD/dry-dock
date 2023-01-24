@@ -6,7 +6,7 @@ banner:
   button_link: "/start/"
   image: "images/banner-app.png"
 
-url: /TODO/
+url: /todo/
 
 
 # brands
@@ -131,7 +131,7 @@ testimonials:
 
 ---
 
-# TODO
+# TODO  
 
 ## Problems  
 
@@ -143,7 +143,9 @@ testimonials:
     - Can I just remove it quickly now for efficiency
     - Do I need to find some place else to achieve the goal they set out to accomplish?
 
-## Big Ticket Items
+
+## Big Ticket Items  
+
 - The Story-fication of Self (This is in my Reminders on iPhone as well)
   - This is a section on the main landing page that I would like to place something I have wanted to do for a while and value highly:
     - Craft, edit, perfect a collection of stories about myself and life
@@ -172,7 +174,30 @@ testimonials:
                       -  We need to love, accept and appreciate ourselves. With the confidence that comes from truly feeling connected to the way you share yourself with others and the confidence in how you are perceived being as it should be (in your mind - again using SILO for the importance of not misleading but fine-tuned or expressive or even creatively leading) is invaluable
                          -  Less shame and doubt in who you are when it really came from who you haphazardly expressed yourself as being to others (or at least believe you did so)
 
-## Questions?
+
+## High Value Take Always  
+
+- Do Not Guilt Yourself
+  - Don't feel bad about short comings
+  - Not because they don't exist or have negative effects on you and the world and those you care about, but because dwelling on them, actively using them and in extreme but unfortunately common cases, relying on them as an excuse to promote poor emotional states and behaviors
+    - It is easy to employ excuses (valid or not) but this is not an easy activity that provides any value to you
+      - If you are incapable or fail, that is what happens. Excusing it does not extract any value strictly on the merritt of existing or sometimes convincingly on being discovered and cunningly used
+        - The deception is on yourself
+          - A one time partial - no matter how valid - reason for poor or lack of execution can steer you clear of uncomfortable emotional consequences (but you have only avoided feeling or acknowledging these emotions)
+            - Taking the simpler more practical and less risky approach of acknowledging, experiencing, and respectfully allowing yourself to process the emotions that come as a result of this (poor or lack of performance)
+              - This avoids the risk of using and becoming dependent on this excuse or modifications of this excuse later on. You are building a wall out of what was only meant to be a breeze
+              - Example: Yes, you are sick. Big deal. Real or not real whatever. And yes, it is ok to live the way you do. You are fortunate but do not need to dwell on being a burden to those you love and you do not need to excuse yourself of experiencing success on apart of you having an excuse in your disability 
+                - Love yourself, and you already accept this enough about yourself not to hold lack of performance against yourself - you do that well
+                - But you should find a way to continue to provide more and more effort into the things that work for you
+                - When you find yourself progressing along paths you find value in or develop pride and opportunities to develop your personal narrative - to live who you are through your story - you already appreciate them and this is good. You love when this happens
+                  - Let this tell you to continue your search
+                    - You already know it is acceptable to not find what you set out for and to not languish over plans you did not see through
+                      - but do not rest on these
+                      - Do not brood over it
+
+
+## Questions?  
+
 - What am I doing in writing this out?
   - First goal is clearly selfish: I wish to mock out a methodology for me to apply to my life and actualize previously a mocked up dream future
   - Secondly, am I doing this for others IRL?
@@ -181,25 +206,32 @@ testimonials:
       - Do I want to clearly define SILO and outline what it is theoretically with practical examples with informational intent
       - __Is this meant to add accountability:__ Do I mean this as a log of my own application of the process thus further ingraining the practice into my daily life by adding accountability
 
+
 ## Basics  
+
 - Create SILO head of library page
     - Try following poem in layout and poems in content
 - Reduce clutter of the TODO page header
 
-### Manifesto
+
+### Manifesto  
+
 - Write Manifesto
 - Draft Manifesto
 - Publish Manifesto
 - Create place for it within the SILO web space
 
-### The Way
+
+### The Way  
+
 "How you have applied SILO"
 - consider situations in which SILO showed successful even without you
   - what about hypothetical situations common enough to find resonance and realistic enough to be taken seriously
 - Brain storm a handful of times you have already practiced these principles
   - ideal, that do a good job representing the outcomes you are looking for and highlight particular facets of SILO
 
-### The Why
+
+### The Why  
 - __Meditate and take notes on the manifesto__
   - What does it mean in its own right?
   - What does it mean to you?
@@ -212,12 +244,14 @@ testimonials:
       - What ideal SILO selfishness is and looks like with examples as well as conceptually
 
 
+### The Will  
 
-### The Will
 - write down the top areas that you can apply SILO to your life right now
   - Select the ones that make the most sense for this narrative and have a high likely hood of transferring from the will to the way
 
-## Platform
+
+## Platform  
+
 Where will this work with SILO exist?
 - Currently I am placing it on The Dry Dock purely out of the easiest and quickest way to get it published
   - Though it does have serious merritt for living here
@@ -228,3 +262,55 @@ Where will this work with SILO exist?
       - Does the idea of SILO and sharing it with others (my _huge_ audience) out-value what I gain from showing off my own efforts and ideas toward self improvement?
         - What does the end result say about who I am 
           - Does this fit the narrative I wish to have on my personal website?
+
+
+## Low Tier But Important  
+
+### Change your personal site  
+
+- Quarto and RStudio don't seem to be working
+- Not to add more indecision but here are some options:
+  - Hugo
+    - Create your own theme from scratch
+      - This is the ultimate goal if you choose hugo, but according to a latter argument, you should not place much thought into what you will do, just focus on what you are currently doing and how requirements may effectively be fulfilled
+  - Create your own website from scratch
+  - Swift
+- Look at how you currently use jerad.xyz and what content is there
+  - Build something to handle that - it will be more appropriate no matter which choice you make
+  - Don't spend so much time dreaming up what you could or might do with the site
+
+
+### LMFPVDrone website  
+
+- Do I want one?
+- I currently have LMFPVDrone instagram which should be plenty for what you are doing
+- Before you think about what value you could bring to the Tahiti Drone club, just go and participate
+  - A role and responsibilities will come to you naturally
+  - No pressure
+
+
+### The Tahiti Surf Bible  
+
+- **Fix user location** - current location is working in previous build but migrated over missing some stuff  
+  - **This is #1**
+  - probably from info tab of project settings
+- Version Control?
+  - Would Github provide any value?
+  - What about iCloud Git?
+- Watch for App review response
+- #### Value adding items:
+  - Mock out iterations of the design on figma
+    - This will give you explicit directions
+    - This is how it works in the real world
+    - Iterating through designs in code may feel informative and is fun and excited but you are use poor design approach
+- #### Strategic:
+  - ##### Goal:
+    - **Get a sponsored tent at Teahupo'o for the Olympics**
+      - This would be a dream come true, put the resource in as many hands as possible and make me feel very successful and accomplished as far as this project is concerned 
+  - Who you can work with to get the best coverage of use
+    - Tahiti Tourismo
+    - TN TV
+      - Marc has experience with them
+      - Kevin knows someone maybe
+    - Radio
+      - Kevin has a friend who does stuff for christian surfers on the radio

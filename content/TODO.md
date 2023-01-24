@@ -143,6 +143,35 @@ testimonials:
     - Can I just remove it quickly now for efficiency
     - Do I need to find some place else to achieve the goal they set out to accomplish?
 
+## Big Ticket Items
+- The Story-fication of Self (This is in my Reminders on iPhone as well)
+  - This is a section on the main landing page that I would like to place something I have wanted to do for a while and value highly:
+    - Craft, edit, perfect a collection of stories about myself and life
+      - I want these stories to tell the image of how I want others to perceive me
+      - I want to polish them so I can truly communicate what it is I am trying to tell others
+      - These will be invaluable in conversation with other people and sit here in a repository of such (for my _huge_ online audience to enjoy)
+      - Ideally: they will tell so well, that those who I share it with will inturn naturally desire to share these stories with other people in absence of my presence - when talking about me, who I am, or just sharing a cool story in conversation
+        - This amplifies the effect of crafting my own narrative that not only I tell but eventually I train the world to tell about me
+  - Quote for searching location in files: "How we know who we are and what we do is not so"
+  - Cool idea: what if you could app-etize the concept of developing your own narrative with the intent of sharing that with others?
+    - Create a simple mobile tool to inspire others to take a little time and tune the stories they tell about themselves most or are most proud of or identify with most.
+      - Why: 
+        - because it is hard to remember everything in the anxiety ridden environment of social interaction (specifically for my target user base)
+        - This is not designed to deceive or even mislead, 
+          - #TODO: in-fact, I should create a convincing case for why misleading works against your favor (you could even evoke SILO for how to use in your best most proper selfish form)
+        - A story is a powerful tool
+          - Teaching others how to use this tool to the advantage of more than properly representing themselves
+            - but using it to greatly share themselves, their dreams, and eccentricities
+              - No matter how dull someone may appear (arguably due to improper use of this technique) they represent in themselves, a one of a kind individual walking this earth as no one else has before or will after them
+                - We all hold our unique window that peers into the working of a magnificent and impossibly complicated / interconnected / functioning universe
+                  - So valuable are these windows it allows us as humans to make enough sense of an infinitely complex reality to understand and do something we call life and give way to our life experience through it
+                    - Learning / knowing / sharing how to better share our windows and what we have uniquely learned to perceive with others _should_ result in:
+                      - A More universal understanding of each other as individuals - and a greater love and appreciation
+                      - Provide more tools to other people who have not had the opportunity to see the world or work with their perception in the way that some have:
+                        - Have you ever learned a cool trick or interesting fact that gave you such a paradigm shift you felt as if your entire life up to that point had been lacking in some significantly measurable form
+                      -  We need to love, accept and appreciate ourselves. With the confidence that comes from truly feeling connected to the way you share yourself with others and the confidence in how you are perceived being as it should be (in your mind - again using SILO for the importance of not misleading but fine-tuned or expressive or even creatively leading) is invaluable
+                         -  Less shame and doubt in who you are when it really came from who you haphazardly expressed yourself as being to others (or at least believe you did so)
+
 ## Questions?
 - What am I doing in writing this out?
   - First goal is clearly selfish: I wish to mock out a methodology for me to apply to my life and actualize previously a mocked up dream future

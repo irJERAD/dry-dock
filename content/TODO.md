@@ -152,6 +152,7 @@ testimonials:
       - Do I want to clearly define SILO and outline what it is theoretically with practical examples with informational intent
       - __Is this meant to add accountability:__ Do I mean this as a log of my own application of the process thus further ingraining the practice into my daily life by adding accountability
 
+## Basics  
 - Create SILO head of library page
     - Try following poem in layout and poems in content
 - Reduce clutter of the TODO page header

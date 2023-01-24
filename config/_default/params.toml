@@ -31,6 +31,8 @@ buy_premium_popup = true
 #mainSections = ["blog"]
 mainSections = ["poems"]
 
+#mainSections = ["SILO"]
+
 # reading time for blog posts
 reading_time = true
 

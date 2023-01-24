@@ -10,6 +10,36 @@ url = "about/"
 weight = 2
 
 [[main]]
+name = "SILO"
+url = "SILO/"
+weight = 2
+hasChildren = true
+
+  [[main]]
+  parent = "SILO"
+  name = "Manifesto"
+  url = "SILO/manifesto/"
+  weight = 1
+
+  [[main]]
+  parent = "SILO"
+  name = "The Way"
+  url = "SILO/the-way/"
+  weight = 7
+
+  [[main]]
+  parent = "SILO"
+  name = "The Will"
+  url = "SILO/the-will/"
+  weight = 10
+
+  [[main]]
+  parent = "SILO"
+  name = "The Should"
+  url = "SILO/the-should/"
+  weight = 11
+
+[[main]]
 name = "Poems"
 url = "poems/"
 weight = 3
@@ -30,11 +60,22 @@ hasChildren = true
   name = "The Way"
   url = "the-way/"
   weight = 7
+
+  [[main]]
+  parent = "Pages"
+  name = "The Way2"
+  url = "the-way2/"
+  weight = 10
   
 [[main]]
 name = "Contact"
 url = "contact/"
 weight = 5
+
+[[main]]
+name = "#TODO"
+url = "todo/"
+weight = 15
 
 
 # footer menu

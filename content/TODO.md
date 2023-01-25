@@ -133,6 +133,12 @@ testimonials:
 
 # TODO  
 
+## Quotes
+
+>> You recently found yourself in complete agreement with your capacity to achieve some level of success. Work until you find yourself in the company of such beliefs 
+
+>> Good routines start great mornings
+
 - #### Craft your narrative(s)
   - Select a curation of around 5 stories you enjoy telling about yourself, your life, or you experiences
     - Write down, edit, rehearse, and perfect these stories with particular values in mind:

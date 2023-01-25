@@ -25,7 +25,7 @@ copyright = "Re-Designed by Jerad Acosta - [JeradXYZ](https://jerad.xyz) - in 20
 custom_script = ""
 
 # buy premium popup
-buy_premium_popup = true
+buy_premium_popup = false
 
 # Main Sections
 #mainSections = ["blog"]

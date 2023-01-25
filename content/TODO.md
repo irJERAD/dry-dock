@@ -133,6 +133,15 @@ testimonials:
 
 # TODO  
 
+- #### Craft your narrative(s)
+  - Select a curation of around 5 stories you enjoy telling about yourself, your life, or you experiences
+    - Write down, edit, rehearse, and perfect these stories with particular values in mind:
+      - If you have REALLY succeeded, the listener will have enjoyed themselves so much, they turn around and share your story with others
+        - This amplifies the reach of the character (yourself) that you promoted and now have promoted for you
+      - A good narrative will not deceive the listener as to who you are
+        - Strategies to consider:
+          - In what ways can your share yourself that inspire others (this would be great for change makers - who, produce impact in their craft through personal touch, find their influence limited by the natural constraints of time placed on an individual and how many places they can travel to )
+
 ## Problems  
 
 - TODO shows up in the top menu bar on the home page but not on pages further down the stream
